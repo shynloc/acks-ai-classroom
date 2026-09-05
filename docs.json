@@ -9,29 +9,6 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "pages": [
-      {
-        "group": "Getting Started",
-        "pages": [
-          "index",
-          "quickstart"
-        ]
-      }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "课堂首页",
-          "icon": "graduation-cap",
-          "href": "/"
-        },
-        {
-          "anchor": "学习指南",
-          "icon": "compass",
-          "href": "/quickstart"
-        }
-      ]
-    },
     "groups": [
       {
         "group": "学习导航",
