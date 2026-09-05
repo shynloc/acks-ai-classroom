@@ -7,7 +7,7 @@
     "light": "#2DD4BF",
     "dark": "#0F766E"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/logo/acks.png",
   "navigation": {
     "groups": [
       {
@@ -39,5 +39,10 @@
       "vscode"
     ]
   },
-  "description": "把知识学明白，把方法用起来。ACKS 课堂的学习指南与实践记录。"
+  "description": "把知识学明白，把方法用起来。ACKS 课堂的学习指南与实践记录。",
+  "logo": {
+    "light": "/logo/acks.png",
+    "dark": "/logo/acks.png",
+    "href": "/"
+  }
 }
